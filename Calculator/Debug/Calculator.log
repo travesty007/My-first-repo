@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\Амир\Desktop\Calculator\Calculator\main.cpp(17,55): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+C:\Users\Амир\Desktop\Calculator\Calculator\main.cpp(17,55): warning C4244:         with
+C:\Users\Амир\Desktop\Calculator\Calculator\main.cpp(17,55): warning C4244:         [
+C:\Users\Амир\Desktop\Calculator\Calculator\main.cpp(17,55): warning C4244:             T=float
+C:\Users\Амир\Desktop\Calculator\Calculator\main.cpp(17,55): warning C4244:         ]
+C:\Users\Амир\Desktop\Calculator\Calculator\main.cpp(17,48): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+C:\Users\Амир\Desktop\Calculator\Calculator\main.cpp(17,48): warning C4244:         with
+C:\Users\Амир\Desktop\Calculator\Calculator\main.cpp(17,48): warning C4244:         [
+C:\Users\Амир\Desktop\Calculator\Calculator\main.cpp(17,48): warning C4244:             T=float
+C:\Users\Амир\Desktop\Calculator\Calculator\main.cpp(17,48): warning C4244:         ]
+C:\Users\Амир\Desktop\Calculator\Calculator\main.cpp(18,34): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Амир\Desktop\Calculator\Calculator\main.cpp(18,28): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Амир\Desktop\Calculator\Calculator\main.cpp(25,36): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Амир\Desktop\Calculator\Calculator\main.cpp(25,26): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Calculator.vcxproj -> C:\Users\Амир\Desktop\Calculator\Debug\Calculator.exe
